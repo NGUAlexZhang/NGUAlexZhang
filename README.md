@@ -1,6 +1,14 @@
 ## Hi there is Alex Cheung👋 A Student from China
-My first name is Alex, which is the protagonist's name of Prototype, a 3D game published in 2009.
 
+Alex —— A former algorithm competition's competitor(such as icpc), who is a master student in University of Chinese Academy of Science, the major is Network Security. Now Alex is focus on automation penetration testing with multiple LLM agents, besides Alex is leanrning Quantitive Finance knowleage, and want to become a full-stack Quant-Researcher and Quant-Developer.
+
+This is my skill list:
+- web develop(javascript, typescript, golang, vue.js, react.js, nginx, docker)
+- a little in Computer Graphics(major in Computational Geometry)
+- LLM agent develop
+- will coming soon: Quantitive Finance
+
+If u have interest in Alex, welcome to contact Alex with email: alexzhangaccn at gmail.com
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NGUAlexZhang)](https://github.com/anuraghazra/github-readme-stats)
