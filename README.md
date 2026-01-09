@@ -1,6 +1,6 @@
 ## Hi there is Alex Cheung👋 A Student from China
 
-Alex —— A former algorithm competition's competitor(such as icpc), who is a master student in University of Chinese Academy of Science, the major is Network Security. Now Alex is focus on automation penetration testing with multiple LLM agents, besides Alex is leanrning Quantitive Finance knowleage, and want to become a full-stack Quant-Researcher and Quant-Developer.
+Alex —— A former algorithm competition's competitor(such as Olympiad in Informatics in senior high school, and International Collegiate Programming Contest in university undergrauate period), who is a master student in University of Chinese Academy of Science, the major is Network Security. Now Alex is focus on automation penetration testing with multiple LLM agents, besides Alex is leanrning Quantitive Finance knowleage, and want to become a full-stack Quant-Researcher and Quant-Developer.
 
 This is my skill list:
 - web develop(javascript, typescript, golang, vue.js, react.js, nginx, docker)
