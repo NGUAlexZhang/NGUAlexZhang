@@ -8,7 +8,11 @@ This is my skill list:
 - LLM agent develop
 - will coming soon: Quantitive Finance
 
-If u have interest in Alex, welcome to contact Alex with email: alexzhangaccn at gmail.com
+There are my honors:
+- 2019 National Olympiad in Informatics in Provinces First Prize, JiLin province, China.  
+- 48th International Collegiate Programming Contest, Asia East Regional Contest Bronze.
+
+If u have interest in Alex, welcome to contact Alex with email: alexzhangaccn at gmail.com  
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NGUAlexZhang)](https://github.com/anuraghazra/github-readme-stats)
