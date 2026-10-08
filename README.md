@@ -8,10 +8,6 @@ This is my skill list:
 - LLM agent development
 - Streaming Media Development
 
-There are my honors:
-- 2019 National Olympiad in Informatics in Provinces First Prize, JiLin province, China.  
-- 48th International Collegiate Programming Contest, Asia East Regional Contest Bronze.
-
 If u have interest in Alex, welcome to contact Alex with email: alexzhangaccn at gmail.com  
 
 
